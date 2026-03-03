@@ -1,0 +1,1 @@
+# camera-shy-bot
