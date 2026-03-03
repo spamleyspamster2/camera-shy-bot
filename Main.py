@@ -5,7 +5,7 @@ import asyncio
 import time
 import io
 import os
-from keep_alive import keep_alive # Imports the script we just made
+from KeepAlive import keep_alive # Imports the script we just made
 
 # --- CONFIGURATION ---
 # Use Replit Secrets (Tools -> Secrets) to add a key named 'TOKEN'
